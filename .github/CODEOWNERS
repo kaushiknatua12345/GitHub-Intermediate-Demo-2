@@ -2,4 +2,8 @@
 # This file defines who owns and should review changes to different parts of the codebase
 
 # Backend directory - replace @username with actual GitHub username(s)
+<<<<<<< HEAD
+/backend/ @kaushiknatua123
+=======
 /backend/ @kaushiknatua12345
+>>>>>>> main
