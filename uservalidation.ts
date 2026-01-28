@@ -1,5 +1,5 @@
 export function isValidUsername(username: string, password: string)
 {
-    if(!username) return false;
-    return true;
+   if(!username && password.length<8) return false;
+   return true;
 }
