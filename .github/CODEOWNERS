@@ -1,0 +1,5 @@
+# CODEOWNERS file
+# This file defines who owns and should review changes to different parts of the codebase
+
+# Backend directory - replace @username with actual GitHub username(s)
+/backend/ @kaushiknatua123
